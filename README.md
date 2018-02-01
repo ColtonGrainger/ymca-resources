@@ -36,6 +36,9 @@
 	- Contact: Seemi Bukhari 
 		- seemib.tx@icnarelief.org
 		- houston@icnarelief.org
+	- 4 beds available in a house
+	- Must call ahead to complete intake with Seemi. She decides if the client is a good fit or not.
+	- Typical stay is 2-3 months. While there, they work on getting employment. Mental health services are not provided on-site.
 	
 ## for Hispanic Immigrants
 - [Casa Juan Diego](http://cjd.org/about/what-is-casa-juan-diego/)
