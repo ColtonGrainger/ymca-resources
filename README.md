@@ -517,11 +517,7 @@ NOTE: Both Medicaid and RMA are not currently (7/15/17) providing coverage for g
 To edit this, you'll need a [GitHub](https://github.com/) account. The "branch" you edit will be uniquely your own, but you can sumbit a [pull request](https://help.github.com/articles/about-pull-requests/) to let me know about the changes you've made.
 
 I've made two tutorials:
-- [Editing ymca-resources (part I)](https://youtu.be/NR9rwLzRa_M) (5 minutes)
+- [Editing ymca-resources (part I)](https://www.youtube.com/watch?v=1ZzNXmpwM8I) (8 minutes)
 	- *Learn how to make a copy and make your own edits.*
-- [Editing ymca-resources (part II)](https://youtu.be/BFKe5x1Qxb8) (5 minutes)
+- [Editing ymca-resources (part II)](https://youtu.be/30PlIXtZcw0) (8 minutes)
 	- *Learn how to submit your edits to be merged.*
-
-> In open source, we feel strongly that to really do something well, you have to get a lot of people involved. **Linus Torvalds**
-
-
